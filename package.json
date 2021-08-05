@@ -13,8 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@openzeppelin/test-helpers": "^0.5.11",
-    "@truffle/hdwallet-provider": "^1.4.2"
+    "@openzeppelin/test-helpers": "^0.5.11"
   },
   "devDependencies": {
     "@openzeppelin/contracts": "^4.2.0"
